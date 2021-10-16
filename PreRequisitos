@@ -1,0 +1,12 @@
+precondiciones reversewords
+1.la funcion debe aceptar una cadena como parametro
+2.la funcion debe invertir cada palabra de la cadena
+3.la funcion debe conservar todos los espacios de la cadena
+
+acciones:
+1. DatoEntradaRetornarReversa
+2. DatoEntradaRetonarEspacios
+
+PostCondiciones:
+DATO ->ENTRADA -> SALIDA
+
